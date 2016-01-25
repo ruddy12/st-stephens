@@ -1,0 +1,108 @@
+body {
+	<!--background-color: #A0522D;-->
+	background-color:006699;	
+}
+.nav{
+	position: relative;
+	background-color: #000;
+	<!---box-shadow: 5px 2px 2px 2px -1px #808080;-->
+	<!---height: 40px;-->
+}
+
+
+
+.nav li{
+
+display: inline-table;
+
+text-decoration:none;
+color: 0033FF;
+
+}
+.nav ul{
+	text-align: center;
+	color: 	0033FF;
+	font-family: freight-text-pro;
+	font-size: 1.75em;
+	line-height: 30px;
+	list-style: none;
+	position: fixed;
+
+
+}
+.nav h2{
+	font-family: freight-text-pro;
+	font-size: 3.25em;
+	line-height: 32px;
+	text-align: center;
+	color:  0033FF;
+}
+
+.main{
+margin-top: 100px;
+	
+}
+.main .col-md-12{
+	
+	font-family: freight-text-pro;
+	font-size: 1.25em;
+	line-height: 28px;
+	color: 0033FF;
+	text-align: center;
+
+	}
+	.feature{
+	    font-family: freight-text-pro;
+	font-size: 1.25em;
+	line-height: 26px;
+	font-weight: 200%;
+	font-size: 22px;
+			}
+
+			.feature img{
+
+    background-image: url(pic_1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+			
+	.supporting .h2{
+		font-family: freight-text-pro;
+	font-size: 1.25em;
+	line-height: 32px;
+	
+	}
+	.supporting p {
+		font-family: freight-text-pro;
+	font-size: 1.75em;
+	line-height: 26px;
+	font-weight: 200%;
+	font-size: 22px;
+	color: 000#;
+
+	}
+	.footer {
+		background-color: #000;
+	}
+	.footer .col-md-8 h3{
+		color:#fff;
+	}
+	.footer .col-md-8 address{
+  font-family: freight-text-pro;
+	font-size: 1.25em;
+	line-height: 32px;
+	color: #fff;
+	
+}
+.footer .co{
+	font-family: freight-text-pro;
+	font-size: 1.25em;
+	line-height: 32px;
+	color: inherit;
+	text-decoration: none;
+
+}
